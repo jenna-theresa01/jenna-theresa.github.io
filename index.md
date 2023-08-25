@@ -16,6 +16,6 @@ My birthday is this coming Monday, Augsust 28, which also happens to be my paren
 
 ### Sweet boy pictures to make you smile
 
-[!My dog Luca](https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4166.jpeg)
+![My dog Luca](https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4166.jpeg)
 
-[!My sister's cat Beren](https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4598.jpeg)
+![My sister's cat Beren](https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4598.jpeg)
