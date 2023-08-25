@@ -14,8 +14,8 @@ I am excited to see my knowledge just grow in general. Starting out, git has me 
 
 My birthday is this coming Monday, Augsust 28, which also happens to be my parent's wedding 36th anniversary. 
 
-#### Sweet boy pictures to make you smile
+### Sweet boy pictures to make you smile
 
-[!My dog Luca] (https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4166.jpeg)
+[!My dog Luca](https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4166.jpeg)
 
-[!My sister's cat Beren] (https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4598.jpeg)
+[!My sister's cat Beren](https://github.com/jenna-theresa01/jenna-theresa.github.io/blob/dev/img/IMG_4598.jpeg)
