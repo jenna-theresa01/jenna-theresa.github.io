@@ -12,7 +12,7 @@ I am excited to see my knowledge just grow in general. Starting out, git has me 
 
 ###### What is something about you that can only be learned by reading this blog?
 
-My birthday is this coming Monday, Augsust 28, which also happens to be my parent's wedding 36th anniversary. 
+My birthday is this coming Monday, August 28, which also happens to be my parent's wedding 36th anniversary. 
 
 ### Sweet boy pictures to make you smile
 
