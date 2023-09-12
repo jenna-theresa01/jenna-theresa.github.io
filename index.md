@@ -37,3 +37,13 @@ When I solve a problem, I try really hard to solve it on my own. I feel like whe
 ###### What methods do you use to help yourself get unstuck?
 
 In regards to coding, I try to look up similar solutions or through the material I have saved to see if there is an answer hidden somewhere that can help get me unstuck. When all else fails, I reach out for help. Coding is a topic that I don’t know a lot about, but am eager to learn. I also know that I have people around me, in this bootcamp and in my personal life, that can help me find a solution. 
+
+## Bootcamp Blog Week 3
+
+###### What are your thoughts about the roles HTML, CSS, and JavaScript play in the process of rendering content and providing a user experience?
+
+I don’t feel like I’ve spent enough time with Javascript to really speak much on how it impacts the user experience. I think it will be interesting to see what I’ll be able to use it for as my blog continues to grow into what I want it to be. When it comes to HTML and CSS though I have always seen these to languages as “easy to understand” since I will write the code and something will show up that I can see, whether it’s words on the page or the different styles (fonts, colors, and sizes), basically immediately. 
+
+###### What are some objects that your blog incorporates?
+
+As of right now, my blog doesn’t have much more then information when it comes to the HTML, CSS, and Javascript. I will say though, I am excited to see what I can add to it to make it more of a blog website rather then just a site with my thoughts on the weeks of boot camp. 
