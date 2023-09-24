@@ -47,3 +47,17 @@ I don’t feel like I’ve spent enough time with Javascript to really speak muc
 ###### What are some objects that your blog incorporates?
 
 As of right now, my blog doesn’t have much more then information when it comes to the HTML, CSS, and Javascript. I will say though, I am excited to see what I can add to it to make it more of a blog website rather then just a site with my thoughts on the weeks of boot camp. 
+
+## Bootcamp Blog Week 5 September 18-22
+
+###### What is the number one thing that held you back this week? Why?
+
+I think this week I held back with JavaScript. I am more comfortable with the idea of HTML that I kept the majority of my project code in HTML rather then expanding my limited knowledge of JavaScript. I will say that I am excited to see how I grow from this past week's project to the future projects that I will complete.
+
+###### What is one thing you would like to learn more about regarding JavaScript (JSON, Data Structures), Bootstrap, or Atomic Design?
+
+I think more then anything I want to get more comfortable with using JavaScript. I think I get in my head a little too much with what syntax to use and whether or not a function is going to work rather then trying to put the code on the page and see what works and what doesn't. As a perfectionist in nature, I think any time I don't know how to do something, I don't want to try it until I know it's going to work. 
+
+###### What is your “Why”?
+
+I want to expand my knowledge. I already know that I enjoy developing, but there is so much that I want to learn. As much as I have never liked school, when it comes to coding there is something about it that I really enjoy learning more about it. 
