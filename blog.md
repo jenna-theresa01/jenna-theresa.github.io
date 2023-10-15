@@ -8,7 +8,7 @@ My first week was pretty much what I expected. I knew it would be information he
 
 ###### What are you excited or eager to learn more about?
 
-I am excited to see my knowledge just grow in general. Starting out, git has me excited since it's not something I have used before. I am excited to go more in depth with gitpod so I can have a better understnading of the program. 
+I am excited to see my knowledge just grow in general. Starting out, git has me excited since it's not something I have used before. I am excited to go more in depth with gitpod so I can have a better understanding of the program. 
 
 ###### What is something about you that can only be learned by reading this blog?
 
